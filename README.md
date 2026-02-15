@@ -7,7 +7,7 @@ Ce projet illustre une approche "Purple Team" complète d'un environnement Activ
 
 ---
 
-## 1. Architecture du Laboratoire (Build)
+## 1. Architecture (Build)
 L'environnement a été virtualisé et isolé dans un réseau local (NAT Network).
 
 * **Contrôleur de Domaine (DC01) :** Windows Server 2022 (IP: `192.168.x.x`) - Rôles AD DS, DNS.
